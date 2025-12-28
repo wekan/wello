@@ -13,3 +13,6 @@ data_*/
 backend/godello_elixir/_build
 backend/godello_elixir/.elixir_ls
 backend/godello_elixir/deps
+
+# Mac
+.DS_Store

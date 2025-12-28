@@ -80,8 +80,8 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Godello"
-config/description="Trello inspired kanban board in Godot, powered by a real-time collaborative backend"
+config/name="WeKan"
+config/description="Open Source kanban with MIT license"
 run/main_scene="res://scenes/main_scene.tscn"
 run/low_processor_mode=true
 run/low_processor_mode_sleep_usec=25000
