@@ -128,4 +128,5 @@ edit_accept={
 [rendering]
 
 quality/driver/driver_name="GLES2"
+vram_compression/import_pvrtc=true
 environment/default_environment="res://default_env.tres"
